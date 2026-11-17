@@ -1,0 +1,13 @@
+# Images / datasets
+dataset/
+crops_dataset/
+*.jpg
+*.jpeg
+*.png
+*.bmp
+*.gif
+*.webp
+
+# Python cache
+__pycache__/
+*.pyc

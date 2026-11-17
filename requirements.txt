@@ -1,0 +1,6 @@
+# สำหรับ infer.py เท่านั้น (Python 3.9-3.12, Raspberry Pi OS 64-bit)
+# infer.py ใช้ weights/best.tflite ผ่าน ai-edge-litert (ไม่ต้องลง TensorFlow เต็มตัว)
+ai-edge-litert>=1.0
+opencv-python-headless>=4.8
+numpy>=1.23
+pillow>=9.0
